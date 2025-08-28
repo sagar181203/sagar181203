@@ -82,7 +82,7 @@ I enjoy solving complex problems and developing solutions that integrate **AI wi
 
 ## 🧩 LeetCode Stats  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sagar181203?theme=dark&font=Baloo%202&ext=contest)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/SagarKumar18?theme=dark&font=Baloo%202&ext=contest)  
 
 ---
 
